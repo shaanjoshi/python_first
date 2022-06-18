@@ -1,7 +1,7 @@
 value1 = float(input("Enter the first number: "))
 value2 = float(input("Enter the second number: "))
 
-print(f"addition of above two numbers: {value1 + value2}")
+print(f"addition of above two numbers:" , (value1 + value2))
 print(f"subtraction  of above two numbers: {value1 - value2}")
 print(f"multiplication of above two numbers: {value1 * value2}")
 print(f"modulus of above two numbers: {value1 % value2}")
