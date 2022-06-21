@@ -141,7 +141,7 @@ print(s)
 '''
 
 #problem 4
-
+'''
 favLang = {}
 a = input("Enter your favorite language Shubham\n")
 b = input("Enter your favorite language Ankit\n")
@@ -153,3 +153,6 @@ favLang['sonali'] = c
 favLang['harshita'] = d
 
 print(favLang)
+'''
+# a = {}
+# b = set()
